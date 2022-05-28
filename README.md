@@ -14,7 +14,7 @@ I'm Jeddi, but not the last Jedi, currently a final year student at the Institut
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRm8ZV7WY7x3SUrzJdjXkQA)
 [![Instagram](https://img.shields.io/badge/Instagram-4464CA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/channel/UCRm8ZV7WY7x3SUrzJdjXkQA)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Jeddi212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=onedark" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeddi212&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=onedark" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Jeddi212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeddi212&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
 
 <br>
 
