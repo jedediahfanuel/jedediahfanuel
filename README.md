@@ -9,7 +9,16 @@ I'm Jeddi, but not the last Jedi, currently a final year student at the Institut
 
 <br>
 
-![Jeddi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeddi212&show_icons=true&theme=cobalt)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+![Jeddi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeddi212&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeddi212&layout=compact)
 
 <!--
 **Jeddi212/Jeddi212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
