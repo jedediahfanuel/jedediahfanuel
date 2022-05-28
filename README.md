@@ -5,7 +5,7 @@
 <hr>
 
 ### Hi there 👋
-I'm Jeddi, ~~but not the last Jedi~~, currently a final year student of informatics engineering at the Institut Teknologi Harapan Bangsa, Indonesia.
+I'm Jeddi, ~~not the last Jedi~~, currently a final year student of informatics engineering at the Institut Teknologi Harapan Bangsa, Indonesia.
 
 <br>
 
