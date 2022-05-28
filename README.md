@@ -9,7 +9,7 @@ I'm Jeddi, but not the last Jedi, currently a final year student at the Institut
 
 <br>
 
-[![Jeddi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeddi212)](https://github.com/Jeddi212/Jeddi212)
+![Jeddi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeddi212&show_icons=true&theme=cobalt)
 
 <!--
 **Jeddi212/Jeddi212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
