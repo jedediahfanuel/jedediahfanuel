@@ -1,5 +1,9 @@
 ![Jeddi](https://github.com/Jeddi212/Jeddi212/blob/main/Jeddi%20(2).gif)
 
+<hr>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 ### Hi there 👋
 
 <!--
