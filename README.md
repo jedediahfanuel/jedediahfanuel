@@ -23,7 +23,7 @@ I'm Jeddi, but not the last Jedi, currently a final year student at the Institut
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![Jetbrains](https://img.shields.io/badge/jetbrains-A212A5?style=for-the-badge&logo=jetbrains%20studio%20code&logoColor=white)]()
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   ![Jeddi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeddi212&show_icons=true&theme=onedark)
