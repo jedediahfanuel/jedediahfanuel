@@ -1,4 +1,4 @@
-![Jeddi]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Jeddi212/Jeddi212/blob/main/Jeddi%20(2).gif))
+![Jeddi]((https://github.com/Jeddi212/Jeddi212/blob/main/Jeddi%20(2).gif))
 
 ### Hi there 👋
 
