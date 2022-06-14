@@ -2,6 +2,9 @@
 
 ![Jeddi's Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeddi212&countColor=%23fce775&style=flat-square)
 
+You can my portofolio pages check here ->
+[https://jeddi212.github.io/](https://jeddi212.github.io/)
+
 <hr>
 
 ### Hi there 👋
