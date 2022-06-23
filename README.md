@@ -24,15 +24,16 @@ I'm Jeddi, ~~not the last Jedi~~, currently a final year student of informatics 
 
 <br>
 
-[![Java](https://img.shields.io/badge/Java-D41515?style=for-the-badge&logo=java&logoColor=white)]()
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white)]()
-[![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Jetbrains](https://img.shields.io/badge/jetbrains-FFD918?style=for-the-badge&logo=jetbrains&logoColor=black)]()
-[![Filmora](https://img.shields.io/badge/filmora-253642?style=for-the-badge&logo=filmora&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-D41515?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Crystal](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)](https://crystal-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)](https://starship.rs/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Jetbrains](https://img.shields.io/badge/jetbrains-FFD918?style=for-the-badge&logo=jetbrains&logoColor=black)](https://www.jetbrains.com/)
+[![Filmora](https://img.shields.io/badge/filmora-253642?style=for-the-badge&logo=filmora&logoColor=white)](https://filmora.wondershare.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?r=1)
 
