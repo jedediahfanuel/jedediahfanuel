@@ -19,7 +19,7 @@ I'm Jeddi, ~~not the last Jedi~~, currently a final year student of informatics 
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/3oTjtUCmCe)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jedediahfanuel/)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRm8ZV7WY7x3SUrzJdjXkQA)
-[![EXercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Jeddi212)
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Jeddi212)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jeddi212&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeddi212&hide=jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=10&&theme=radical" />
 
