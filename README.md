@@ -21,7 +21,7 @@ I'm Jeddi, ~~not the last Jedi~~, currently a final year student of informatics 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jedediahfanuel/)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Jeddi212)
 
-<img height="137px" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=jeddi212&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeddi212&hide=jupyter%20notebook,vue,scss&hide_title=true&hide_border=true&layout=compact&langs_count=10&&theme=radical" />
+<img height="137px" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=jeddi212&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeddi212&hide=jupyter%20notebook,vue,scss,javascript&hide_title=true&hide_border=true&layout=compact&langs_count=10&&theme=radical" />
 
 <br>
 
