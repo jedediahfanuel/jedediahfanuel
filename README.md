@@ -12,7 +12,7 @@ I'm Jeddi, ~~not the last Jedi~~, currently a final year student of informatics 
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeddi212)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jedediahfanuel)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRm8ZV7WY7x3SUrzJdjXkQA)
 [![Gitlab](https://img.shields.io/badge/Gitlab-FA7B0E?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/jedediahf51)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=jedediahf51@gmail.com&tf=cm)
