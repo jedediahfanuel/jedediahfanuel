@@ -3,7 +3,7 @@
 ![Jeddi's Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeddi212&countColor=%23fce775&style=flat-square)
 
 You can check my portofolio pages here ->
-[https://jeddi212.github.io/](https://jeddi212.github.io/)
+[https://jedediahfanuel.github.io/](https://jedediahfanuel.github.io/)
 
 <hr>
 
@@ -21,7 +21,7 @@ I'm Jeddi, ~~not the last Jedi~~, currently a final year student of informatics 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jedediahfanuel/)
 [![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Jeddi212)
 
-<img height="137px" src="https://github-readme-stats-jeddi212.vercel.app/api?username=jeddi212&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats-jeddi212.vercel.app/api/top-langs/?username=jeddi212&hide=jupyter%20notebook,vue,scss,javascript,shaderlab&hide_title=true&hide_border=true&layout=compact&langs_count=10&&theme=radical" />
+<img height="137px" src="https://github-readme-stats-jeddi212.vercel.app/api?username=jedediahfanuel&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=radical" /><img height="137px" src="https://github-readme-stats-jeddi212.vercel.app/api/top-langs/?username=jedediahfanuel&hide=jupyter%20notebook,vue,scss,javascript,shaderlab&hide_title=true&hide_border=true&layout=compact&langs_count=10&&theme=radical" />
 
 <br>
 
