@@ -8,7 +8,7 @@ You can check my portofolio pages here ->
 <hr>
 
 ### Hi there 👋
-I'm Jeddi, ~~not the last Jedi~~, currently a final year student of informatics engineering at the Institut Teknologi Harapan Bangsa, Indonesia.
+I'm Jeddi, ~~not the last Jedi~~, graduated with a specialization in informatics engineering from Institut Teknologi Harapan Bangsa, Indonesia.
 
 <br>
 
