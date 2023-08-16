@@ -1,4 +1,4 @@
-![Jeddi](https://github.com/Jeddi212/Jeddi212/blob/main/Jeddi%20(2).gif)
+![Jeddi](https://media.giphy.com/media/pDW3HVRCKVeopCZts2/giphy.gif)
 
 ![Jeddi's Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeddi212&countColor=%23fce775&style=flat-square)
 
