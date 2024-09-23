@@ -38,5 +38,6 @@ I'm Jeddi, ~~not the last Jedi~~, graduated with a specialization in informatics
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Filmora](https://img.shields.io/badge/filmora-253642?style=for-the-badge&logo=filmora&logoColor=white)](https://filmora.wondershare.com/)
 [![Jetbrains](https://img.shields.io/badge/jetbrains-FFD918?style=for-the-badge&logo=jetbrains&logoColor=black)](https://www.jetbrains.com/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://www.obsidian.md/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
